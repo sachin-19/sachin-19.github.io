@@ -2,8 +2,8 @@ body {
   font-family: "ubuntu", sans-serif;
 }
 .help {
-  padding-top: 30px;
-  padding-left: 20px;
+  margin-top: 30px;
+  margin-left: 20px;
   margin-bottom: 30px;
 }
 p {
@@ -16,3 +16,9 @@ p {
   text-align: center;
   background-color: lightgray;
 }
+footer {
+  color: whitesmoke;
+  background-color: #555555;
+  height: 200px;
+}
+
